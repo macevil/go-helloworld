@@ -1,3 +1,3 @@
-# go-helloworld
+# go-cf-helloworld
 
-Simple Go helloworld sample with Github Actions workflow cf deployment.
+Simple [Go](https://golang.org/) helloworld sample with Github Actions workflow cf push.
