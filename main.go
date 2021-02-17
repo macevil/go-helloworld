@@ -16,7 +16,7 @@ func templateGreeting(s string) string {
 	if s == "" {
 		s = "World"
 	}
-	return fmt.Sprint("Hello, %s!", s)
+	return fmt.Sprint("Hello, %i!", s)
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
