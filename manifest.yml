@@ -4,3 +4,5 @@ applications:
   memory: 256MB
   disk_quota: 256MB
   random-route: true
+  env:
+    GOPACKAGENAME: goapp

@@ -29,6 +29,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      
       - name: Deploy app
         uses: citizen-of-planet-earth/cf-cli-action@master
         with:
