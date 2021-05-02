@@ -5,4 +5,4 @@ applications:
   disk_quota: 256MB
   random-route: true
   env:
-    BP_GO_VERSION: 1.16.3
+    BP_GO_VERSION: 1.15.11
